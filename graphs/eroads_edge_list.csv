@@ -89,7 +89,7 @@ E115,RUS,Moskva,RUS,Rostov-na-Donu,1066,false
 E115,RUS,Rostov-na-Donu,RUS,Stavropol,411,false
 E115,RUS,Stavropol,RUS,Machačkala,624,false
 E115,RUS,Machačkala,AZ,Baku,400,false
-E115,AZ,Baku, ,*Iran*,307,false
+E115,AZ,Baku,IR,Iran,307,false
 E12,N,Mo i Rana,S,Umeå,475,false
 E12,S,Umeå,FIN,Vaasa,118,true
 E12,FIN,Vaasa,FIN,Tampere,240,false
@@ -962,7 +962,7 @@ E761,YU,Kruševac,YU,Pojate,23,false
 E761,YU,Pojate,YU,Paraćin,17,false
 E761,YU,Paraćin,YU,Zajĕcar,87,false
 E762,BIH,Sarajevo,YU,Podgorica,209,false
-E762,YU,Podgorica, ,*Albania*,23,false
+E762,YU,Podgorica,AL,Albania,23,false
 E763,YU,Beograd,YU,Čačak,137,false
 E763,YU,Čačak,YU,Nova Varos,117,false
 E763,YU,Nova Varos,YU,Bijelo Polje,73,false
@@ -1046,7 +1046,7 @@ E80,TR,Erzincan,TR,Askale,138,false
 E80,TR,Askale,TR,Erzurum,54,false
 E80,TR,Erzurum,TR,Ağri,185,false
 E80,TR,Ağri,TR,Gürbulak,129,false
-E80,TR,Gürbulak, ,*Iran*,6,false
+E80,TR,Gürbulak,IR,Iran,6,false
 E801,P,Coimbra,P,Viseu,91,false
 E801,P,Viseu,P,Vila Real,101,false
 E801,P,Vila Real,P,Chaves,63,false
@@ -1119,12 +1119,12 @@ E85,BG,Svilengrad,GR,Orménio,17,false
 E85,GR,Orménio,GR,Kastanies,31,false
 E85,GR,Kastanies,GR,Didimoticho,38,false
 E85,GR,Didimoticho,GR,Alexandropoúli,110,false
-E851,YU,Petrovac, ,*Albania*,53,false
-E851, ,*Albania*, ,*Albania*,148,false
-E851, ,*Albania*,YU,Prizren,16,false
+E851,YU,Petrovac,AL,Albania,53,false
+E851,AL,Albania,AL,Albania,148,false
+E851,AL,Albania,YU,Prizren,16,false
 E851,YU,Prizren,YU,Priština,78,false
-E852,MK,Ohrid, ,*Albania*,29,false
-E853,GR,Ioánnina, ,*Albania*,61,false
+E852,MK,Ohrid,AL,Albania,29,false
+E853,GR,Ioánnina,AL,Albania,61,false
 E86,GR,Kristalopigí,GR,Flórina,45,false
 E86,GR,Flórina,GR,Vévi,21,false
 E86,GR,Vévi,GR,Géfira,111,false
@@ -1198,7 +1198,7 @@ E90,TR,Gazi Antep,TR,Sanli Urfa,140,false
 E90,TR,Sanli Urfa,TR,Nusaybin,230,false
 E90,TR,Nusaybin,TR,Cizre,95,false
 E90,TR,Cizre,TR,Habur,44,false
-E90,TR,Habur, ,*Iraq*,1,false
+E90,TR,Habur,IQ,Iraq,1,false
 E901,E,Madrid,E,Valencia,344,false
 E902,E,Jaén,E,Granada,88,false
 E902,E,Granada,E,Málaga,124,false
@@ -1206,7 +1206,7 @@ E91,TR,Toprakkale,TR,Iskenderun,63,false
 E91,TR,Iskenderun,TR,Topboğazi,23,false
 E91,TR,Topboğazi,TR,Antakya,31,false
 E91,TR,Antakya,TR,Yayladaği,43,false
-E91,TR,Yayladaği, ,*Syria*,5,false
+E91,TR,Yayladaği,SY,Syria,5,false
 E92,GR,Igoumenítsa,GR,Ioánnina,92,false
 E92,GR,Ioánnina,GR,Tríkala,139,false
 E92,GR,Tríkala,GR,Vólos,119,false
@@ -1244,7 +1244,7 @@ E97,TR,Gümüshane,TR,Askale,140,false
 E98,TR,Topboğazi,TR,Kirikhan,10,false
 E98,TR,Kirikhan,TR,Reyhanli,38,false
 E98,TR,Reyhanli,TR,Cilvegözü,14,false
-E98,TR,Cilvegözü, ,*Syria*,2,false
+E98,TR,Cilvegözü,SY,Syria,2,false
 E99,TR,Doğubayazit,TR,Muradiye,87,false
 E99,TR,Muradiye,TR,Bitlis,189,false
 E99,TR,Bitlis,TR,Diyarbakir,205,false
