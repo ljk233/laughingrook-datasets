@@ -11,4 +11,4 @@ Source:
 ## USA CPI 2005-2015
 
 Source:
-[OECD.Stat](https://www.oecd.org/)
+[The World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
