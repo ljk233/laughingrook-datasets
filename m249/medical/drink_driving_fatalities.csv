@@ -1,0 +1,9 @@
+n,level,is_exposed,is_case
+4,married,TRUE,TRUE
+5,married,TRUE,FALSE
+5,married,FALSE,TRUE
+103,married,FALSE,FALSE
+10,not married,TRUE,TRUE
+3,not married,TRUE,FALSE
+5,not married,FALSE,TRUE
+43,not married,FALSE,FALSE
