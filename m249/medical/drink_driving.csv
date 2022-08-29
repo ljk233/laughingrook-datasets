@@ -1,4 +1,4 @@
-n,level,is_exposed,is_case
+n,level,exposure,casecon
 4,married,TRUE,TRUE
 5,married,TRUE,FALSE
 5,married,FALSE,TRUE
