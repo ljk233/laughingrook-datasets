@@ -1,0 +1,9 @@
+n,level,exposure,casecon
+4,married,over 100mg,fatality
+5,married,over 100mg,no fatality
+5,married,under 100mg,fatality
+103,married,under 100mg,no fatality
+10,not married,over 100mg,fatality
+3,not married,over 100mg,no fatality
+5,not married,under 100mg,fatality
+43,not married,under 100mg,no fatality

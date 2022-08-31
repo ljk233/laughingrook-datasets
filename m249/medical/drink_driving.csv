@@ -1,9 +1,0 @@
-n,level,exposure,casecon
-4,married,exposed,case
-5,married,exposed,control
-5,married,not exposed,case
-103,married,not exposed,control
-10,not married,exposed,case
-3,not married,exposed,control
-5,not married,not exposed,case
-43,not married,not exposed,control
