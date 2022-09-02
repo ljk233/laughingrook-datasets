@@ -1,0 +1,7 @@
+stress_level,n_cases,n_controls
+extreme,174,595
+very severe,260,1155
+severe,362,2688
+high,97,1286
+moderate,180,2783
+minimal,95,2749
