@@ -1,4 +1,4 @@
-dose_level,n_cases,n_controls
+dose,n_cases,n_controls
 extreme,174,595
 very severe,260,1155
 severe,362,2688
