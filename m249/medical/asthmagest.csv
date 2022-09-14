@@ -1,0 +1,7 @@
+n,exposure,disease
+18,pre-term,hospitalised
+266,pre-term,not hospitalised
+402,term,hospitalised
+8565,term,not hospitalised
+45,post-term,hospitalised
+1100,post-term,not hospitalised
