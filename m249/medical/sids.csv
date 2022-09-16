@@ -1,7 +1,7 @@
 n,exposure,casecon
-30,slept on front,case
-24,slept on front,control
-76,slept on side,case
-241,slept on side,control
-82,slept on back,case
-509,slept on back,control
+30,slept on front,sids
+24,slept on front,no sids
+76,slept on side,sids
+241,slept on side,no sids
+82,slept on back,sids
+509,slept on back,no sids
