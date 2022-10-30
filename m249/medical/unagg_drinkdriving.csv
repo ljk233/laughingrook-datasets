@@ -1,0 +1,179 @@
+id,exposure,casecon
+1,over 100mg,fatality
+2,over 100mg,fatality
+3,over 100mg,fatality
+4,over 100mg,fatality
+5,over 100mg,no fatality
+6,over 100mg,no fatality
+7,over 100mg,no fatality
+8,over 100mg,no fatality
+9,over 100mg,no fatality
+10,under 100mg,fatality
+11,under 100mg,fatality
+12,under 100mg,fatality
+13,under 100mg,fatality
+14,under 100mg,fatality
+15,under 100mg,no fatality
+16,under 100mg,no fatality
+17,under 100mg,no fatality
+18,under 100mg,no fatality
+19,under 100mg,no fatality
+20,under 100mg,no fatality
+21,under 100mg,no fatality
+22,under 100mg,no fatality
+23,under 100mg,no fatality
+24,under 100mg,no fatality
+25,under 100mg,no fatality
+26,under 100mg,no fatality
+27,under 100mg,no fatality
+28,under 100mg,no fatality
+29,under 100mg,no fatality
+30,under 100mg,no fatality
+31,under 100mg,no fatality
+32,under 100mg,no fatality
+33,under 100mg,no fatality
+34,under 100mg,no fatality
+35,under 100mg,no fatality
+36,under 100mg,no fatality
+37,under 100mg,no fatality
+38,under 100mg,no fatality
+39,under 100mg,no fatality
+40,under 100mg,no fatality
+41,under 100mg,no fatality
+42,under 100mg,no fatality
+43,under 100mg,no fatality
+44,under 100mg,no fatality
+45,under 100mg,no fatality
+46,under 100mg,no fatality
+47,under 100mg,no fatality
+48,under 100mg,no fatality
+49,under 100mg,no fatality
+50,under 100mg,no fatality
+51,under 100mg,no fatality
+52,under 100mg,no fatality
+53,under 100mg,no fatality
+54,under 100mg,no fatality
+55,under 100mg,no fatality
+56,under 100mg,no fatality
+57,under 100mg,no fatality
+58,under 100mg,no fatality
+59,under 100mg,no fatality
+60,under 100mg,no fatality
+61,under 100mg,no fatality
+62,under 100mg,no fatality
+63,under 100mg,no fatality
+64,under 100mg,no fatality
+65,under 100mg,no fatality
+66,under 100mg,no fatality
+67,under 100mg,no fatality
+68,under 100mg,no fatality
+69,under 100mg,no fatality
+70,under 100mg,no fatality
+71,under 100mg,no fatality
+72,under 100mg,no fatality
+73,under 100mg,no fatality
+74,under 100mg,no fatality
+75,under 100mg,no fatality
+76,under 100mg,no fatality
+77,under 100mg,no fatality
+78,under 100mg,no fatality
+79,under 100mg,no fatality
+80,under 100mg,no fatality
+81,under 100mg,no fatality
+82,under 100mg,no fatality
+83,under 100mg,no fatality
+84,under 100mg,no fatality
+85,under 100mg,no fatality
+86,under 100mg,no fatality
+87,under 100mg,no fatality
+88,under 100mg,no fatality
+89,under 100mg,no fatality
+90,under 100mg,no fatality
+91,under 100mg,no fatality
+92,under 100mg,no fatality
+93,under 100mg,no fatality
+94,under 100mg,no fatality
+95,under 100mg,no fatality
+96,under 100mg,no fatality
+97,under 100mg,no fatality
+98,under 100mg,no fatality
+99,under 100mg,no fatality
+100,under 100mg,no fatality
+101,under 100mg,no fatality
+102,under 100mg,no fatality
+103,under 100mg,no fatality
+104,under 100mg,no fatality
+105,under 100mg,no fatality
+106,under 100mg,no fatality
+107,under 100mg,no fatality
+108,under 100mg,no fatality
+109,under 100mg,no fatality
+110,under 100mg,no fatality
+111,under 100mg,no fatality
+112,under 100mg,no fatality
+113,under 100mg,no fatality
+114,under 100mg,no fatality
+115,under 100mg,no fatality
+116,under 100mg,no fatality
+117,under 100mg,no fatality
+118,over 100mg,fatality
+119,over 100mg,fatality
+120,over 100mg,fatality
+121,over 100mg,fatality
+122,over 100mg,fatality
+123,over 100mg,fatality
+124,over 100mg,fatality
+125,over 100mg,fatality
+126,over 100mg,fatality
+127,over 100mg,fatality
+128,over 100mg,no fatality
+129,over 100mg,no fatality
+130,over 100mg,no fatality
+131,under 100mg,fatality
+132,under 100mg,fatality
+133,under 100mg,fatality
+134,under 100mg,fatality
+135,under 100mg,fatality
+136,under 100mg,no fatality
+137,under 100mg,no fatality
+138,under 100mg,no fatality
+139,under 100mg,no fatality
+140,under 100mg,no fatality
+141,under 100mg,no fatality
+142,under 100mg,no fatality
+143,under 100mg,no fatality
+144,under 100mg,no fatality
+145,under 100mg,no fatality
+146,under 100mg,no fatality
+147,under 100mg,no fatality
+148,under 100mg,no fatality
+149,under 100mg,no fatality
+150,under 100mg,no fatality
+151,under 100mg,no fatality
+152,under 100mg,no fatality
+153,under 100mg,no fatality
+154,under 100mg,no fatality
+155,under 100mg,no fatality
+156,under 100mg,no fatality
+157,under 100mg,no fatality
+158,under 100mg,no fatality
+159,under 100mg,no fatality
+160,under 100mg,no fatality
+161,under 100mg,no fatality
+162,under 100mg,no fatality
+163,under 100mg,no fatality
+164,under 100mg,no fatality
+165,under 100mg,no fatality
+166,under 100mg,no fatality
+167,under 100mg,no fatality
+168,under 100mg,no fatality
+169,under 100mg,no fatality
+170,under 100mg,no fatality
+171,under 100mg,no fatality
+172,under 100mg,no fatality
+173,under 100mg,no fatality
+174,under 100mg,no fatality
+175,under 100mg,no fatality
+176,under 100mg,no fatality
+177,under 100mg,no fatality
+178,under 100mg,no fatality
