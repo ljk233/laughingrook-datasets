@@ -1,5 +1,5 @@
 --
--- File generated with SQLiteStudio v3.2.1 on Sat Nov 5 10:55:50 2022
+-- File generated with SQLiteStudio v3.2.1 on Sat Nov 5 11:04:43 2022
 --
 -- Text encoding used: System
 --
@@ -8,11 +8,11 @@ BEGIN TRANSACTION;
 
 -- Table: county
 CREATE TABLE county (
-    id         INTEGER PRIMARY KEY,
+    id         INTEGER,
     id_str     TEXT,
     short_name TEXT,
     name       TEXT,
-    state_id   INTEGER REFERENCES state (id) 
+    state_id   INTEGER
 );
 
 INSERT INTO county (
@@ -47193,10 +47193,10 @@ INSERT INTO county (
 
 -- Table: division
 CREATE TABLE division (
-    id        INTEGER PRIMARY KEY,
+    id        INTEGER,
     id_str    TEXT,
     name      TEXT,
-    region_id INTEGER REFERENCES region (id) 
+    region_id INTEGER
 );
 
 INSERT INTO division (
@@ -47319,7 +47319,7 @@ INSERT INTO division (
 
 -- Table: region
 CREATE TABLE region (
-    id     INTEGER PRIMARY KEY,
+    id     INTEGER,
     id_str TEXT,
     name   TEXT
 );
@@ -47371,11 +47371,11 @@ INSERT INTO region (
 
 -- Table: state
 CREATE TABLE state (
-    id          INTEGER PRIMARY KEY,
+    id          INTEGER,
     id_str      TEXT,
     short_name  TEXT,
     name        TEXT,
-    division_id INTEGER REFERENCES division (id) 
+    division_id INTEGER
 );
 
 INSERT INTO state (
