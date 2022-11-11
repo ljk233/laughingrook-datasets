@@ -1,4 +1,4 @@
-n,exposure,disease
+n,exposure,outcome
 18,pre-term,hospitalised
 266,pre-term,not hospitalised
 402,term,hospitalised
